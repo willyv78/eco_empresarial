@@ -1,0 +1,1433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"UTF",
+				"utf8_encode"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"w",
+				"window.outerWidth\tWindow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"aler",
+				"alert(message)\tWindow"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"Usu",
+				"UsuNombre"
+			],
+			[
+				"Us",
+				"UsuNombre"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"setT",
+				"setTimeout(func, delay)\tWindow"
+			],
+			[
+				"mysql_fet",
+				"mysql_fetch_array"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"date",
+				"new Date()\tDate"
+			],
+			[
+				"has",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"ha",
+				"hasClass\t.hasClass()"
+			],
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"att",
+				"attr\t.attr() - single"
+			],
+			[
+				"strot",
+				"strtotime"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"3px",
+				"3px"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"clo",
+				"closest\t.closest()"
+			],
+			[
+				"ready",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"read",
+				"readyState\tDocument"
+			],
+			[
+				"do",
+				"document\tDocument"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"getE",
+				"getElementsByClassName(names)\tElement"
+			],
+			[
+				"le",
+				"length\tFunction"
+			],
+			[
+				"ne",
+				"new Array()\tArray"
+			],
+			[
+				"va",
+				"var "
+			],
+			[
+				"angular",
+				"angular.bind"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "intranet/index.php",
+			"settings":
+			{
+				"buffer_size": 39702,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "intranet/solic_permisos_ed.php",
+			"settings":
+			{
+				"buffer_size": 24343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "intranet/emp_basicos.php",
+			"settings":
+			{
+				"buffer_size": 24897,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "php/funciones.php",
+			"settings":
+			{
+				"buffer_size": 29149,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "php/ins_upd_bas.php",
+			"settings":
+			{
+				"buffer_size": 4637,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/style.css",
+			"settings":
+			{
+				"buffer_size": 66381,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 898.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php"
+	],
+	"file_history":
+	[
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/conexion.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/js/e3.js",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/recupera_datos.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/tipologias.php",
+		"/private/var/folders/r_/hjw9nlc10jl0ljy72hmdxrpm0000gn/T/fz3temp-2/ubicacion.php",
+		"/Users/willsonvelandia/Downloads/Personal/pedidos/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_contratos.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/sql-auditor.sql",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_contratos_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/ins_upd_cont.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/ins_upd_hor.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/ins_upd_bas.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_laboral.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_laboral_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/val_user.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/ins_upd_perm.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_laboral.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_laboral_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/ins_upd_lab.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_estudios.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/ins_upd_std.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_estudios_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_vacaciones_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/materialize/index.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/calendario.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_permisos_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_basicos.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_seguridad_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_seguridad.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_laboral_print.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_laboral_temp.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/rrhh.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_det_passwd.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/gen_pass.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_det_ed.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_list.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_list_inactivo.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/emp_det.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/php-hole-puncing/cloud.example.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/php-hole-puncing/cloud.class.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/php-hole-puncing/client.example.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/php-hole-puncing/client.class.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/pausas_user.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_permisos.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/solic_vacaciones.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/unsubscribe.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/js/unsubscribe.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/contactos.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/pausas_correo.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/pausas_confirm.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/unsubscribe.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/enconstruccion.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/biblioteca.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/intranet/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/css/responsive.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/css/plantilla1/style.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/js/inicio.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/js/inicioh.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/php/funciones.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/index.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/home.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/calendario.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/home-detalle.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/cal_ver_evento.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/adminph/detalle-evento-calendario.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/cal_ver_det.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/adminph/ver_evento.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/adminph/estado-financiero.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/adminph/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/adminph/calendario.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/cal_det.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/habitante/ver_evento.php",
+		"/Users/willsonvelandia/Library/Application Support/Sublime Text 3/Packages/User/JsValidate.sublime-settings",
+		"/Users/willsonvelandia/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/willsonvelandia/Library/Application Support/Sublime Text 3/Packages/JsValidate/Default.sublime-keymap",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/css/inicio.css",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/video/index.html",
+		"/Users/willsonvelandia/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/angular/MeridaDesing/transitionMaterialDesing/md.module.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/angular/MeridaDesing/transitionMaterialDesing/db.js",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/angular/MeridaDesing/transitionMaterialDesing/index.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial/php/funciones.php",
+		"/Users/willsonvelandia/Library/Application Support/Sublime Text 3/Packages/JsValidate/JsValidate.sublime-settings",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/mails/es/account.txt",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/editoreshache/mails/es/account.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/sublimetext/index.php",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/sublimetext/index.html",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/sublimetext/angular.js",
+		"/Users/willsonvelandia/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph/php/columns_tabla.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial",
+			"/Applications/mampstack-5.4.33-0/apache2/htdocs/ph"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"docu",
+			"e3_std_fini",
+			"empEstudiosEdit",
+			"sess_perf",
+			"cabeceras",
+			"email_rrhh",
+			"para1",
+			"solic",
+			"PLD",
+			"rmb_calendario",
+			"input-pagina",
+			"empEstudios",
+			"empEstudiosEdit",
+			"PLD.",
+			"PLD.e3_",
+			"espereshow",
+			"validaPausas",
+			"cargarCalendario",
+			"opcMenu",
+			"yyyy-mm-dd",
+			"form_solic_perm",
+			"$est",
+			"El detalle",
+			"La fecha final",
+			"La observación",
+			"Sura",
+			"Salud POS - Sura",
+			"otrosDatos2",
+			"input-pagina",
+			"empEstudios",
+			"empleadoBuscarId",
+			"e3_user_doc",
+			"e3_est_id",
+			"esperehide(), 1000)",
+			"generaPass",
+			"e3_user_email",
+			"$fini",
+			"cargo",
+			"e3_carg_id",
+			"cargaListEmp",
+			"empBasicos",
+			"empleadosBuscar",
+			"num_docs",
+			"$user",
+			"res_bus",
+			"email_copia",
+			"lroa@tributarasesores.com.co",
+			"ocacionadas",
+			"181.49.17.5",
+			"cargarCalendario",
+			"rows_perm",
+			"user_id",
+			"col-xs-4",
+			"col-md-12",
+			"12",
+			"lg-6 ",
+			"6",
+			"4",
+			"tipoCalendario",
+			"cargarCalendario",
+			"eventos",
+			"span",
+			"bpink",
+			"h4",
+			"div",
+			"<div class=\"col-xs-3",
+			"div",
+			"<h3>",
+			"</h3>",
+			"file_even",
+			"cargaDetalleEvento",
+			"from rmb_residente",
+			"e3_cal",
+			"\n",
+			"e3_user",
+			"e3_cal",
+			"home-cont-cal",
+			"DatosCalendario",
+			"<li class=\"dropdown\">",
+			"evento",
+			"span",
+			"_POST",
+			"home-dia-cal",
+			"<img src=\"../images/cinco.png\"",
+			" welly",
+			"well",
+			" style=\"display:table-cell;\"",
+			"inline-flex",
+			"margin-bottom: -99999px;padding-bottom: 99999px;",
+			"display: -webkit-box;display: -webkit-flex;display: flex;flex:1 0 auto;",
+			"float: none;",
+			"col-md-4\"",
+			"class=\"clearfix\">&nbsp;</div>",
+			" col-md-4",
+			"borange",
+			"bgreen",
+			"close",
+			"span.eventos",
+			"botton",
+			"$(this).parent(\"button\")",
+			"mes",
+			"fecha",
+			"bred",
+			"borange",
+			"bgreen",
+			"hidden",
+			"cargarCalendario",
+			"</span>",
+			"date('N', $fini)",
+			"datoscircu",
+			"datosclasi",
+			"datostarea",
+			"$id",
+			" => '\".$",
+			" => \".$",
+			":",
+			"datosevent",
+			"nom-dia",
+			"datosevent",
+			"\n",
+			"datosevent",
+			"datoscal",
+			"registroCampo",
+			"video-container",
+			"emp_perf",
+			"viernes",
+			"fecha_lunes",
+			"suma"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ocasionadas"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Applications/mampstack-5.4.33-0/apache2/htdocs/eco_empresarial"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "intranet/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								614,
+								614
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										623,
+										624
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										541,
+										542
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "intranet/solic_permisos_ed.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18720,
+								19077
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										19076,
+										19077
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										18760,
+										18761
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7701.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "intranet/emp_basicos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23059,
+								23059
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+									"1":
+									[
+										23058,
+										23059
+									]
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7745.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "php/funciones.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2157,
+										2158
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										212,
+										213
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "php/ins_upd_bas.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2673,
+								2726
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "style/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										427,
+										428
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										368,
+										369
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.664620882834,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/mampstack-5.4.33-0/apache2/htdocs/web_quimbaya/quimbaya.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
