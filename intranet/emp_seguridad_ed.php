@@ -69,6 +69,7 @@ else
                         <option <?php if($nom == 'Pensiones Voluntarias - Protección'){echo "selected";}?> value="Pensiones Voluntarias - Protección">PROTECCIÓN</option>
                     </optgroup>
                     <optgroup label="Salud POS">
+                        <option <?php if($nom == 'Salud POS - Aliansalud'){echo "selected";}?> value="Salud POS - Aliansalud">ALIANZALUD</option>
                         <option <?php if($nom == 'Salud POS - Cafesalud'){echo "selected";}?> value="Salud POS - Cafesalud">CAFESALUD</option>
                         <option <?php if($nom == 'Salud POS - Compensar'){echo "selected";}?> value="Salud POS - Compensar">COMPENSAR</option>
                         <option <?php if($nom == 'Salud POS - Coomeva'){echo "selected";}?> value="Salud POS - Coomeva">COOMEVA</option>
@@ -88,7 +89,7 @@ else
         <div class="form-group">
             <label for="e3_segsoc_fini" class="col-sm-4 control-label">Fecha Ingreso:</label>
             <div class="col-sm-8">
-                <input type="date" name="e3_segsoc_fini" id="e3_segsoc_fini" class="form-control" value="<?php echo $fini;?>" pattern="" title="Fecha de ingreso o afiliación" placeholder="DD/MM/YYYY">
+                <input type="date" name="e3_segsoc_fini" id="e3_segsoc_fini" class="form-control" value="<?php echo $fini;?>" pattern="" title="Fecha de ingreso o afiliación" placeholder="AAAA-MM-DD">
             </div>
         </div>
         <div class="form-group">
@@ -113,6 +114,7 @@ else
 </div>
 <!-- jQuery -->
 <script type="text/javascript" src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap-datepicker.min.js"></script> <!-- Datepicker -->
 <!-- Libreria java script que realiza la validacion de los formulariosP -->
 <script type="text/javascript" src="../js/bootstrapValidator.min.js"></script>
 <script>empEstudiosEdit();</script>
@@ -138,7 +140,7 @@ else
                     message: 'La fecha de afiliación no es válido',
                     validators: {
                         date: {
-                            format: 'DD/MM/YYYY',
+                            format: 'dd-mm-yyyy',
                             message: 'La fecha de afiliación no es válido'
                         },
                         notEmpty: {
@@ -187,5 +189,8 @@ else
                 }
             });
         });
+    });
+    $(function () {
+        $('#e3_segsoc_fini').datepicker({format: "yyyy-mm-dd", autoclose: true});
     });
 </script>
